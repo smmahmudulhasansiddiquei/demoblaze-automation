@@ -5,7 +5,6 @@ class LoginPage {
     this.passwordInput = '#loginpassword';
     this.loginMenu = '#login2';
     
-    // this.loginButton = 'btn btn-primary';
   }
 
   async login(username, password) {
